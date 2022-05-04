@@ -7,6 +7,7 @@ import 'package:flutter_influx/Utils/Types.dart';
 import 'package:requests/requests.dart';
 
 class InfluxDBClient {
+  
   final String host;
   final String user;
   final String password;
